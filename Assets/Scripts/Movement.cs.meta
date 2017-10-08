@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb1eb42b3c55a8248ae725e4c4c0db80
+timeCreated: 1497338280
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blood: {fileID: 21300000, guid: 96aab4e9999a85742ba32a8fd0ba3e0c, type: 3}
+  - brownBat: {fileID: 21300000, guid: e04e88f1e571e6749bb5817ecf60c291, type: 3}
+  - blackBat: {fileID: 21300000, guid: 30cc7699fe5368148be986f6906d0ab1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

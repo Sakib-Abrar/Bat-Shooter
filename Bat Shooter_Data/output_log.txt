@@ -1,0 +1,53 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4276
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shini\Documents\Bat Shooter\Bat Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.328568 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.704347 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.369476 ms (FindLiveObjects: 0.059526 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.260275 ms  DeleteObjects: 0.026273 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.215576 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.619077 ms (FindLiveObjects: 0.052958 ms CreateObjectMapping: 0.036537 ms MarkObjects: 0.434750 ms  DeleteObjects: 0.092779 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.352692 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.502076 ms (FindLiveObjects: 0.059116 ms CreateObjectMapping: 0.033663 ms MarkObjects: 0.364139 ms  DeleteObjects: 0.043926 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.303018 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.651509 ms (FindLiveObjects: 0.119053 ms CreateObjectMapping: 0.043516 ms MarkObjects: 0.403139 ms  DeleteObjects: 0.082926 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: fb0 -> priority: 1 
+  Thread -> id: 2114 -> priority: 1 
